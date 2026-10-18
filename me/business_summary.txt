@@ -1,0 +1,15 @@
+Cedar Flow Automation is a small consultancy based in Beirut, Lebanon, founded in 2024. We help small and mid-sized businesses in the Levant and the Gulf replace spreadsheets, manual follow-ups and disconnected tools with practical automation, ERP systems and AI agents that their teams actually adopt.
+
+Our mission is to make small businesses run like well-oiled machines. We believe automation should ship in weeks, not quarters, come with a fixed price, and be simple enough that the people doing the daily work are happy to use it.
+
+We offer four services:
+1. Workflow Audit - a one-week, fixed-price review of how your business really runs. You receive a prioritized automation roadmap. Price: $1,500.
+2. ERP Implementation (Odoo) - setup of sales, inventory, purchasing and invoicing on Odoo, including data migration and staff onboarding. Starter package from $6,000, typically 4 to 6 weeks.
+3. AI Agent Development - custom agents for customer support, invoice and purchase-order checking, and order intake. Pilot projects from $4,000, typically 3 to 4 weeks.
+4. Training & Support - hands-on team training and an ongoing support retainer at $400 per month, which includes up to 8 hours of work.
+
+Our team: Layla Haddad (co-founder and CEO, a former operations consultant with 10 years of experience), Omar Nasr (co-founder and CTO, software and machine-learning engineer) and Rima Khoury (Head of Delivery, Odoo specialist). We work in Arabic, English and French.
+
+What makes us different: fixed prices with no surprise invoices, working results within 30 days of project kickoff, and the Workflow Audit fee is credited toward any implementation project booked within 60 days of the audit.
+
+Contact: hello@cedarflow.example. Office hours are Monday to Friday, 9:00 to 17:00 Beirut time. We typically reply within one business day.
